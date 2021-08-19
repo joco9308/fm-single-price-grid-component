@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/desktop-first-site-using-html-and-css-Ppx5Jg2dd)
-- Live Site URL: [Live site](https://joco9308.github.io/fm-stats-preview-card/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-first-site-using-grid-dSnYGYmkW)
+- Live Site URL: [Live site](https://joco9308.github.io/fm-single-price-grid-component/)
 
 ## My process
 
